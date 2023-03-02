@@ -1,2 +1,4 @@
 # Airline_Dataset
 Analyzing Domestic Airline Routes in the US and predicting Prices based on Distance
+
+I've created a project based on the airline dataset. In this project I've used 3 tools, SQL, Python and R Studio. Most of the programming is done in R Studio. I've used Python to Visualize the data. SQL is used for Data Manipulation to view the aggregation of the Data. R Studio is used to clean up and standardise the dataset. I've used linear regression to fit a model for predicting the Price of the airline based on a single predictor which is distance. In future study the regression can be modified to inlude other predictor variables like Airline Carrier, Day of the week, Day of the month, Destination etc. Time series analysis is done to view the mean price of Airlines over the past 2 years and prediction is done for the next months.
